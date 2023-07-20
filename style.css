@@ -1,0 +1,383 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-color {
+    background-color: #e3eafa;
+    background-size: cover;
+}
+
+.ss {
+    margin-left: auto;
+}
+
+.nav-home {
+    color: #200b9b;
+    text-decoration: none;
+}
+
+.nav-home:hover {
+    color: brown;
+}
+
+
+.img {
+    border: 2px solid white;
+    border-radius: 50%;
+    text-align: center;
+    height: 280px;
+    width: 280px;
+    margin-bottom: 0px;
+
+
+}
+
+.banner-image {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.banner-text {
+    padding: 30px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.btn-HC {
+    background-color: #200b9b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-HC:hover {
+    background-color: brown;
+    color: white;
+}
+
+
+.my-name-underline:hover {
+    color: brown;
+}
+
+/*----------------------------------------------------------------About-me-section--------------------------------------------------------------------*/
+.about-me-para {
+    font-size: 20px;
+}
+
+/*---------------------------------------------------------------Education-Section-----------------------------------------------------------------------*/
+
+.sub-cont {
+
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px rgb(96, 95, 95);
+    padding: 30px;
+    margin-right: 20px;
+
+
+    overflow-wrap: break-word;
+}
+
+/*--------------------------------------------------------------------Technical-skills-section--------------------------------------------------------------------*/
+
+
+/*-------------------------------------------------------------------------------Other-skills-Section-------------------------------------------------------------------*/
+
+.list {
+    font-size: 25px;
+}
+
+.other-skills {
+    padding-left: 55px;
+
+}
+
+/*----------------------------------------------------------------------------Resume-Section-----------------------------------------------------------------------*/
+
+.btn-view-resume {
+    background-color: #200b9b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.resume {
+    padding-left: 30px;
+    margin-bottom: 30px;
+    ;
+}
+
+.btn-view-resume:hover {
+    background-color: brown;
+    color: white;
+}
+
+/*---------------------------------------------------------------------Projects-Section--------------------------------------------------------------*/
+.card:hover {
+    box-shadow: 1px 1px 7px grey;
+}
+
+.projects {
+    padding-top: 20px;
+    margin-bottom: 10px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.image-thumbnail {
+    width: 100%;
+    border-radius: 10px;
+    height: 270px;
+}
+
+.card-style {
+    padding: 30px;
+}
+
+.btn-know-more {
+    background-color: #200b9b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-know-more:hover {
+    background-color: brown;
+    color: white;
+}
+
+/*---------------------------------------------------------------Certificates-Section---------------------------------------------------------------*/
+
+.certificates {
+    padding-left: 30px;
+}
+
+.Certificate-titles {
+    color: white;
+    font-family: Roboto;
+    font-size: 35px;
+    margin: 10px;
+}
+
+.certificate-image {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.card-cont {
+    width: 100%;
+}
+
+.btn-view {
+    background-color: #200b9b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-view:hover {
+    background-color: brown;
+    color: white;
+}
+
+/*----------------------------------------------------------Internship-Section------------------------------------------------------------*/
+
+.internship {
+    margin-left: 0px;
+    padding: 15px;
+}
+
+.btn-view-certificate {
+    background-color: #200b9b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-view-certificate:hover {
+    background-color: brown;
+    color: white;
+}
+
+/*-------------------------------------------------------------------Contact-Me-Section------------------------------------------------------------------------*/
+.contact-me {
+    padding-bottom: 20px;
+    margin-left: 0px;
+}
+
+.contact-labels {
+    font-size: 15px;
+    color: #200b9b;
+}
+
+.contact-labels:hover {
+    color: brown;
+}
+
+.btn-send {
+    background-color: #200b9b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-send:hover {
+    background-color: brown;
+    color: white;
+}
+
+.contactme-lables1 {
+    font-size: 20px;
+    color: #200b9b;
+}
+
+.contactme-lables1:hover {
+    text-decoration: underline;
+    color: brown;
+}
+
+
+/*-----------------------------------------------------------------------Get-in-touch-Section-------------------------------------------------------------------------------*/
+
+
+
+
+.form-lables {
+    font-size: 18px;
+}
+
+.btn-send {
+    background-color: #200b9b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-send:hover {
+    background-color: brown;
+    color: white;
+}
+
+/*-------------------------------------------------------------------Footer-Section---------------------------------------------------------------------*/
+
+.cont-main {
+    padding: 20px;
+}
+
+.icons {
+    color: white;
+    display: inline-block;
+    background-color: #200b9b;
+    padding: 10px;
+    border-radius: 400px;
+    margin-right: 25px;
+    margin-bottom: none;
+}
+
+.icons:hover {
+    color: white;
+    background-color: brown;
+}
+
+
+
+.footer-end-header {
+    color: #200b9b;
+
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.footer-nav {
+    list-style-type: none;
+    color: #200b9b;
+}
+
+.about-me-text {
+    color: #200b9b;
+    font-size: 50px;
+    margin: 50px;
+}
+
+.contact-me-text {
+    color: #200b9b;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.contact-me-icons {
+    margin-right: 18px;
+}
+
+.contact-me-head-text {
+    color: #200b9b;
+    font-size: 35px;
+    text-decoration: underline;
+    text-decoration-color: #200b9b;
+    text-underline-offset: 15px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+
+
+}
+
+.contact-footer {
+    padding: 10px;
+    text-align: left;
+}
+
+.list-1 {
+    list-style-type: none;
+    margin-top: 100px;
+    font-size: 15px;
+    text-align: left;
+
+}
+
+.a {
+    color: #200b9b;
+    text-decoration: none;
+    margin-bottom: 45px;
+}
+
+a:hover {
+    color: brown;
+    text-decoration: underline;
+}
+
+.form {
+    color: #200b9b;
+    text-align: left;
+    width: 1000;
+    padding: 40px;
+    margin-top: 50px;
+
+}
+
+.btn-send-footer {
+    background-color: #200b9b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-send-footer:hover {
+    background-color: brown;
+    color: white;
+}
+
+.footerline {
+    border: 2px solid #200b9b;
+}
+
+.last-contact {
+    padding: 0px;
+    margin: 0px;
+}
